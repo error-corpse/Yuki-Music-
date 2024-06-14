@@ -16,7 +16,7 @@ from telethon.tl.types import (
 from YukiMusic import telethn, LOGGER
 from YukiMusic.events import register
 
-BOT_ID = 7225814509
+BOT_ID = 7415843359
 OWNER_IDS = [6259443940, 5053815620, 6810396528]
 CMD_HELP = "/ !"
 
