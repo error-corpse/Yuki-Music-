@@ -12,7 +12,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 button = [
        [
             InlineKeyboardButton(
-                text="ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/yukii_music_bot?startgroup=true",
+                text="ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/makima_mubot?startgroup=true",
             )
         ]
 ]
