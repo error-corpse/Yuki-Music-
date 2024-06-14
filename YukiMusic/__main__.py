@@ -5,12 +5,13 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from YukiMusic import LOGGER, app, userbot
+from YukiMusic import app, userbot
 from YukiMusic.core.call import Anony
 from YukiMusic.misc import sudo
 from YukiMusic.plugins import ALL_MODULES
 from YukiMusic.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
+from .logging import LOGGER
 
 
 async def init():
