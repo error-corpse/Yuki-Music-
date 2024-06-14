@@ -1,4 +1,3 @@
-# https://graph.org/file/01f4c5bfc24e8e41a18d5.jpg
 # Makima
  <img src="https://readme-typing-svg.herokuapp.com?color=810eef&width=480&lines=🄼🅄🅂🄸🄲+🄱🄾🅃">
 
