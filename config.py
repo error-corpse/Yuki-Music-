@@ -16,9 +16,9 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "corpsealone")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME", "makima_mubot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "YuKi MUSIC")
+BOT_NAME = getenv("BOT_NAME", "Makima MUSIC")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "Yuki_Assis")
+ASSUSERNAME = getenv("ASSUSERNAME", "Makima_Assis")
 EVALOP = list(map(int, getenv("EVALOP", "6195725562").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/tinaarobot/NYKAAXBOT",
+    "https://github.chttps://github.com/error-corpse/Yuki-Music-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
